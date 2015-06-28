@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">MyMetrix</string>
+
+    <string name="title_temp">Temperature</string>
+    <string name="title_length">Length</string>
+    <string name="title_speed">Speed</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_say_hi">Say Hi</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="us_length_array">
+        <item>Inches</item>
+        <item>Feet</item>
+        <item>Yards</item>
+        <item>Miles</item>
+    </string-array>
+
+    <string-array name="world_length_array">
+        <item>Millimeters</item>
+        <item>Centimeters</item>
+        <item>Meters</item>
+        <item>Kilometers</item>
+    </string-array>
+
+    <string-array name="us_temp_array">
+        <item>Fahrenheit</item>
+    </string-array>
+
+    <string-array name="world_temp_array">
+        <item>Celsius</item>
+        <item>Kelvin</item>
+    </string-array>
+
+    <string-array name="us_speed_array">
+        <item>Miles/Hour</item>
+        <item>Feet/Second</item>
+    </string-array>
+
+    <string-array name="world_speed_array">
+        <item>Km/Hour</item>
+        <item>Meter/Second</item>
+    </string-array>
+
+    <string-array name="all_temp_array">
+        <item>Fahrenheit</item>
+        <item>Celsius</item>
+        <item>Kelvin</item>
+    </string-array>
+
+    <string-array name="all_length_array">
+        <item>Inches</item>
+        <item>Feet</item>
+        <item>Yards</item>
+        <item>Miles</item>
+        <item>Millimeters</item>
+        <item>Centimeters</item>
+        <item>Meters</item>
+        <item>Kilometers</item>
+    </string-array>
+
+    <string-array name="all_speed_array">
+        <item>Miles/Hour</item>
+        <item>Feet/Second</item>
+        <item>Km/Hour</item>
+        <item>Meter/Second</item>
+    </string-array>
+</resources>
